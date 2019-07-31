@@ -21,5 +21,5 @@ Assignment : https://sites.google.com/view/jiazou-web/assignment
 <br/>Size of physical memory: 8G
 <br/>Type of Disk: SSD
 <br/>Operating System and version: Win 10
-2.  list the performance bottleneck(s) of your program when it runs on your computer:
+2. When I test the program on small.txt and medium.txt, it performs well. But when I test on large.txt, the Visual Studio always stops responding when it finish calculating the average.
 
