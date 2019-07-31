@@ -13,16 +13,16 @@ using namespace std;
 
 
 ////////////////////////////////////////////////////////////////////////////////////
-//struct json_struct {                                                            //
-//	int id;                                                                       //
+//struct json_struct {                                                         
+//	int id;                                                                      
 //	double cost;																  //
-//	std::vector<double> cost_components;              Don't need to use this	  //
-//													  to store or serialize       //
-//	json_struct(){									  because jsoncpp has done    //
-//		id = 0;										  it ??                       //
-//		cost = 0;                                                                 //
-//	}                                                                             //
-//};                                                                              //
+//	std::vector<double> cost_components;             
+//													  
+//	json_struct(){									  
+//		id = 0;										                
+//		cost = 0;                                                                 
+//	}                                                                            
+//};                                                                              
 ////////////////////////////////////////////////////////////////////////////////////
 //----------------------------------------------------------------------------------
 
