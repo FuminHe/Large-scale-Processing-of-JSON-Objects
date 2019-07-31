@@ -6,7 +6,7 @@ Assignment : https://sites.google.com/view/jiazou-web/assignment
 2. Put the data "small.txt", "medium.txt", "large.txt" in the same folder with the program. And change the file name in the main() function in order to run different data.
 3. Run main1.cpp and main2.cpp separeately. (mian1.cpp is for Q1-Q4 in the assignment, and main2.cpp is for Q5 mentioned in the interview)
 4. small.txt: Q1: average = 49.2446,   Q2: max cost_components: 52.5,  Q3: "small-Q3List.txt" in src,  Q4: "small-Q4List.txt". 
-5. small.txt: Q1: average = 49.9419,   Q2: max cost_components: 52.5,  Q3: "medium-Q3List.txt" in src,  Q4: "medium-Q4List.txt". 
+5. medium.txt: Q1: average = 49.9419,   Q2: max cost_components: 52.5,  Q3: "medium-Q3List.txt" in src,  Q4: "medium-Q4List.txt". 
 
 
 #Part 2:
