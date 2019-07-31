@@ -4,7 +4,7 @@ Assignment : https://sites.google.com/view/jiazou-web/assignment
 #Part 1:
 1. Import jsoncpp for this project.
 2. Put the data "small.txt", "medium.txt", "large.txt" in the same folder with the program. 
-   \n And change the file name in the main() function in order to run different data.
+  And change the file name in the main() function in order to run different data.
 3. Run main1.cpp and main2.cpp separeately. (mian1.cpp is for Q1-Q4 in the assignment, and main2.cpp is for Q5 mentioned in the interview)
 
 #Part 2:
